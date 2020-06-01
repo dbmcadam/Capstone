@@ -1,8 +1,3 @@
-#,,,
-# The Tor Project,,,
-#,,,
-# URL: https://metrics.torproject.org/userstats-bridge-country.csv?start=2017-01-01&end=2019-12-31&country=iq,,,
-#,,,
 date,country,users,frac
 1/1/17,iq,46,56
 1/2/17,iq,50,54
